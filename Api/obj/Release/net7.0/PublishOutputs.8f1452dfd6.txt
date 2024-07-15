@@ -1,0 +1,13 @@
+C:\Users\Andreza Galvao\Documents\ChallengeBlip\Api\Api\out\Api.exe
+C:\Users\Andreza Galvao\Documents\ChallengeBlip\Api\Api\out\appsettings.Development.json
+C:\Users\Andreza Galvao\Documents\ChallengeBlip\Api\Api\out\appsettings.json
+C:\Users\Andreza Galvao\Documents\ChallengeBlip\Api\Api\out\Api.dll
+C:\Users\Andreza Galvao\Documents\ChallengeBlip\Api\Api\out\Api.deps.json
+C:\Users\Andreza Galvao\Documents\ChallengeBlip\Api\Api\out\Api.runtimeconfig.json
+C:\Users\Andreza Galvao\Documents\ChallengeBlip\Api\Api\out\Api.pdb
+C:\Users\Andreza Galvao\Documents\ChallengeBlip\Api\Api\out\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Andreza Galvao\Documents\ChallengeBlip\Api\Api\out\Microsoft.OpenApi.dll
+C:\Users\Andreza Galvao\Documents\ChallengeBlip\Api\Api\out\Octokit.dll
+C:\Users\Andreza Galvao\Documents\ChallengeBlip\Api\Api\out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Andreza Galvao\Documents\ChallengeBlip\Api\Api\out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Andreza Galvao\Documents\ChallengeBlip\Api\Api\out\Swashbuckle.AspNetCore.SwaggerUI.dll

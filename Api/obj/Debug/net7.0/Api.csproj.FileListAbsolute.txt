@@ -32,3 +32,4 @@ C:\Users\Andreza Galvao\Documents\ChallengeBlip\Api\Api\obj\Debug\net7.0\refint\
 C:\Users\Andreza Galvao\Documents\ChallengeBlip\Api\Api\obj\Debug\net7.0\Api.pdb
 C:\Users\Andreza Galvao\Documents\ChallengeBlip\Api\Api\obj\Debug\net7.0\Api.genruntimeconfig.cache
 C:\Users\Andreza Galvao\Documents\ChallengeBlip\Api\Api\obj\Debug\net7.0\ref\Api.dll
+C:\Users\Andreza Galvao\Documents\ChallengeBlip\Api\Api\obj\Debug\net7.0\Api.sourcelink.json
