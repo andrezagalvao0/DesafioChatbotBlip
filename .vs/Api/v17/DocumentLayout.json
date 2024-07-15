@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Andreza Galvao\\Documents\\ChallengeBlip\\Api\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{795C0B92-92FB-466F-A8BC-336458AC075A}|Api\\Api.csproj|c:\\users\\andreza galvao\\documents\\challengeblip\\api\\api\\controllers\\repositoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{795C0B92-92FB-466F-A8BC-336458AC075A}|Api\\Api.csproj|solutionrelative:api\\controllers\\repositoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FC9ED20C-A4E6-4770-BA89-76E68FDF8981}|ApiTest\\ApiTest.csproj|c:\\users\\andreza galvao\\documents\\challengeblip\\api\\apitest\\apitest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{FC9ED20C-A4E6-4770-BA89-76E68FDF8981}|ApiTest\\ApiTest.csproj|solutionrelative:apitest\\apitest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{795C0B92-92FB-466F-A8BC-336458AC075A}|Api\\Api.csproj|c:\\users\\andreza galvao\\documents\\challengeblip\\api\\api\\models\\githubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{795C0B92-92FB-466F-A8BC-336458AC075A}|Api\\Api.csproj|solutionrelative:api\\models\\githubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{795C0B92-92FB-466F-A8BC-336458AC075A}|Api\\Api.csproj|c:\\users\\andreza galvao\\documents\\challengeblip\\api\\api\\controllers\\repositoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{795C0B92-92FB-466F-A8BC-336458AC075A}|Api\\Api.csproj|solutionrelative:api\\controllers\\repositoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FC9ED20C-A4E6-4770-BA89-76E68FDF8981}|ApiTest\\ApiTest.csproj|c:\\users\\andreza galvao\\documents\\challengeblip\\api\\apitest\\controllerstest\\repositoriescontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,20 +46,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ApiTest",
+              "DocumentIndex": 1,
+              "Title": "ApiTest.csproj",
               "DocumentMoniker": "C:\\Users\\Andreza Galvao\\Documents\\ChallengeBlip\\Api\\ApiTest\\ApiTest.csproj",
               "RelativeDocumentMoniker": "ApiTest\\ApiTest.csproj",
               "ToolTip": "C:\\Users\\Andreza Galvao\\Documents\\ChallengeBlip\\Api\\ApiTest\\ApiTest.csproj",
               "RelativeToolTip": "ApiTest\\ApiTest.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-15T17:03:55.202Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-15T17:03:55.202Z"
             },
             {
               "$type": "Document",
@@ -71,8 +70,7 @@
               "RelativeToolTip": "ApiTest\\ControllersTest\\RepositoriesControllerTests.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAAAAsAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T14:23:26.75Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-15T14:23:26.75Z"
             },
             {
               "$type": "Document",
@@ -84,12 +82,11 @@
               "RelativeToolTip": "Api\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T23:00:42.54Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-14T23:00:42.54Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "RepositoriesController.cs",
               "DocumentMoniker": "C:\\Users\\Andreza Galvao\\Documents\\ChallengeBlip\\Api\\Api\\Controllers\\RepositoriesController.cs",
               "RelativeDocumentMoniker": "Api\\Controllers\\RepositoriesController.cs",
@@ -110,8 +107,7 @@
               "RelativeToolTip": "Api\\Services\\GithubService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T22:45:55.938Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-14T22:45:55.938Z"
             },
             {
               "$type": "Document",
@@ -123,8 +119,7 @@
               "RelativeToolTip": "Api\\Services\\IGithubService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T22:40:14.465Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-14T22:40:14.465Z"
             },
             {
               "$type": "Document",
@@ -136,25 +131,23 @@
               "RelativeToolTip": "Api\\DTOs\\RepositoryDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T22:39:10.972Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-14T22:39:10.972Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Api",
+              "Title": "Api.csproj",
               "DocumentMoniker": "C:\\Users\\Andreza Galvao\\Documents\\ChallengeBlip\\Api\\Api\\Api.csproj",
               "RelativeDocumentMoniker": "Api\\Api.csproj",
               "ToolTip": "C:\\Users\\Andreza Galvao\\Documents\\ChallengeBlip\\Api\\Api\\Api.csproj",
               "RelativeToolTip": "Api\\Api.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-14T22:38:29.343Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-14T22:38:29.343Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "GithubRepository.cs",
               "DocumentMoniker": "C:\\Users\\Andreza Galvao\\Documents\\ChallengeBlip\\Api\\Api\\Models\\GithubRepository.cs",
               "RelativeDocumentMoniker": "Api\\Models\\GithubRepository.cs",
@@ -162,8 +155,7 @@
               "RelativeToolTip": "Api\\Models\\GithubRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T22:36:10.095Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-14T22:36:10.095Z"
             }
           ]
         }
